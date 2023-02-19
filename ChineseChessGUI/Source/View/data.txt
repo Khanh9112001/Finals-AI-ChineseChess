@@ -1,0 +1,1 @@
+{"saveboard": [{"fen": "2e1k4/3Ra4/4e4/p3p3p/9/6P2/c7P/2r1E4/C3A4/3AK4", "side": "top", "typepiece": "Chinese Piece", "mode": "0", "top_color": "red", "number_step_red": 26, "number_step_black": 27}]}

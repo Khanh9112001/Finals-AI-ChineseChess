@@ -1,0 +1,209 @@
+11/28/2022 11:26:22 PM STREAM b'IHDR' 16 13
+11/28/2022 11:26:22 PM STREAM b'IDAT' 41 524288
+11/28/2022 11:26:22 PM STREAM b'IHDR' 16 13
+11/28/2022 11:26:22 PM STREAM b'pHYs' 41 9
+11/28/2022 11:26:22 PM STREAM b'cHRM' 62 32
+11/28/2022 11:26:22 PM STREAM b'IDAT' 106 213842
+11/28/2022 11:26:22 PM tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+11/28/2022 11:26:22 PM tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 98 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:26:22 PM tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 106 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:26:22 PM tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+11/28/2022 11:26:22 PM tag: Software (305) - type: string (2) Tag Location: 70 - Data Location: 114 - value: <table: 34 bytes>
+11/28/2022 11:26:22 PM tag: DateTime (306) - type: string (2) Tag Location: 82 - Data Location: 148 - value: b'2017:08:02 14:19:57\x00'
+11/28/2022 11:26:22 PM tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xa8'
+11/28/2022 11:26:33 PM STREAM b'IHDR' 16 13
+11/28/2022 11:26:33 PM STREAM b'pHYs' 41 9
+11/28/2022 11:26:33 PM STREAM b'cHRM' 62 32
+11/28/2022 11:26:33 PM STREAM b'IDAT' 106 213842
+11/28/2022 11:26:33 PM STREAM b'IHDR' 16 13
+11/28/2022 11:26:33 PM STREAM b'pHYs' 41 9
+11/28/2022 11:26:33 PM STREAM b'cHRM' 62 32
+11/28/2022 11:26:33 PM STREAM b'IDAT' 106 114815
+11/28/2022 11:27:41 PM STREAM b'IHDR' 16 13
+11/28/2022 11:27:41 PM STREAM b'IDAT' 41 524288
+11/28/2022 11:27:41 PM STREAM b'IHDR' 16 13
+11/28/2022 11:27:41 PM STREAM b'pHYs' 41 9
+11/28/2022 11:27:41 PM STREAM b'cHRM' 62 32
+11/28/2022 11:27:41 PM STREAM b'IDAT' 106 213842
+11/28/2022 11:27:41 PM tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+11/28/2022 11:27:41 PM tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 98 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:27:41 PM tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 106 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:27:41 PM tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+11/28/2022 11:27:41 PM tag: Software (305) - type: string (2) Tag Location: 70 - Data Location: 114 - value: <table: 34 bytes>
+11/28/2022 11:27:41 PM tag: DateTime (306) - type: string (2) Tag Location: 82 - Data Location: 148 - value: b'2017:08:02 14:19:57\x00'
+11/28/2022 11:27:41 PM tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xa8'
+11/28/2022 11:28:38 PM STREAM b'IHDR' 16 13
+11/28/2022 11:28:38 PM STREAM b'IDAT' 41 524288
+11/28/2022 11:28:38 PM STREAM b'IHDR' 16 13
+11/28/2022 11:28:38 PM STREAM b'pHYs' 41 9
+11/28/2022 11:28:38 PM STREAM b'cHRM' 62 32
+11/28/2022 11:28:38 PM STREAM b'IDAT' 106 213842
+11/28/2022 11:28:38 PM tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+11/28/2022 11:28:38 PM tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 98 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:28:38 PM tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 106 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:28:38 PM tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+11/28/2022 11:28:38 PM tag: Software (305) - type: string (2) Tag Location: 70 - Data Location: 114 - value: <table: 34 bytes>
+11/28/2022 11:28:38 PM tag: DateTime (306) - type: string (2) Tag Location: 82 - Data Location: 148 - value: b'2017:08:02 14:19:57\x00'
+11/28/2022 11:28:38 PM tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xa8'
+11/28/2022 11:29:36 PM Controller: send fen to engine: rheakaehr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR b
+11/28/2022 11:29:36 PM Controller: receive move from engine: 43466
+11/28/2022 11:29:36 PM Controller: communicate with server<--end
+11/28/2022 11:29:41 PM STREAM b'IHDR' 16 13
+11/28/2022 11:29:41 PM STREAM b'IDAT' 41 524288
+11/28/2022 11:29:41 PM STREAM b'IHDR' 16 13
+11/28/2022 11:29:41 PM STREAM b'pHYs' 41 9
+11/28/2022 11:29:41 PM STREAM b'cHRM' 62 32
+11/28/2022 11:29:41 PM STREAM b'IDAT' 106 213842
+11/28/2022 11:29:41 PM tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+11/28/2022 11:29:41 PM tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 98 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:29:41 PM tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 106 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:29:41 PM tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+11/28/2022 11:29:41 PM tag: Software (305) - type: string (2) Tag Location: 70 - Data Location: 114 - value: <table: 34 bytes>
+11/28/2022 11:29:41 PM tag: DateTime (306) - type: string (2) Tag Location: 82 - Data Location: 148 - value: b'2017:08:02 14:19:57\x00'
+11/28/2022 11:29:41 PM tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xa8'
+11/28/2022 11:29:52 PM STREAM b'IHDR' 16 13
+11/28/2022 11:29:52 PM STREAM b'pHYs' 41 9
+11/28/2022 11:29:52 PM STREAM b'cHRM' 62 32
+11/28/2022 11:29:52 PM STREAM b'IDAT' 106 213842
+11/28/2022 11:29:52 PM STREAM b'IHDR' 16 13
+11/28/2022 11:29:52 PM STREAM b'pHYs' 41 9
+11/28/2022 11:29:52 PM STREAM b'cHRM' 62 32
+11/28/2022 11:29:52 PM STREAM b'IDAT' 106 114815
+11/28/2022 11:30:05 PM STREAM b'IHDR' 16 13
+11/28/2022 11:30:05 PM STREAM b'IDAT' 41 524288
+11/28/2022 11:30:06 PM STREAM b'IHDR' 16 13
+11/28/2022 11:30:06 PM STREAM b'pHYs' 41 9
+11/28/2022 11:30:06 PM STREAM b'cHRM' 62 32
+11/28/2022 11:30:06 PM STREAM b'IDAT' 106 213842
+11/28/2022 11:30:06 PM tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+11/28/2022 11:30:06 PM tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 98 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:30:06 PM tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 106 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:30:06 PM tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+11/28/2022 11:30:06 PM tag: Software (305) - type: string (2) Tag Location: 70 - Data Location: 114 - value: <table: 34 bytes>
+11/28/2022 11:30:06 PM tag: DateTime (306) - type: string (2) Tag Location: 82 - Data Location: 148 - value: b'2017:08:02 14:19:57\x00'
+11/28/2022 11:30:06 PM tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xa8'
+11/28/2022 11:30:37 PM Controller: send fen to engine: rheakaehr/9/1c5c1/p3p1p1p/2p6/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR b
+11/28/2022 11:30:37 PM Controller: receive move from engine: 42404
+11/28/2022 11:30:37 PM Controller: communicate with server<--end
+11/28/2022 11:30:55 PM Controller: send fen to engine: rheakaehr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR b
+11/28/2022 11:30:55 PM Controller: receive move from engine: 42436
+11/28/2022 11:30:55 PM Controller: communicate with server<--end
+11/28/2022 11:31:00 PM Controller: send fen to engine: r1eakaehr/9/2h1c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1CH4C1/9/R1EAKAEHR b
+11/28/2022 11:31:00 PM Controller: receive move from engine: 50371
+11/28/2022 11:31:00 PM Controller: communicate with server<--end
+11/28/2022 11:31:07 PM Controller: send fen to engine: 1reakaehr/9/2h1c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1CH4C1/9/1REAKAEHR b
+11/28/2022 11:31:08 PM Controller: receive move from engine: 25764
+11/28/2022 11:31:08 PM Controller: communicate with server<--end
+11/28/2022 11:31:27 PM Controller: send fen to engine: 1reakaehr/9/2h1c4/pCp1p1pcp/9/9/P1P1P1P1P/2H4C1/9/1REAKAEHR b
+11/28/2022 11:31:36 PM Controller: receive move from engine: 34197
+11/28/2022 11:31:36 PM Controller: communicate with server<--end
+11/28/2022 11:31:46 PM Controller: send fen to engine: 1reakae1r/9/2h1c1h2/pCp1p1pcp/9/2P6/P3P1P1P/2H4C1/9/1REAKAEHR b
+11/28/2022 11:31:54 PM Controller: receive move from engine: 43466
+11/28/2022 11:31:54 PM Controller: communicate with server<--end
+11/28/2022 11:32:06 PM Controller: send fen to engine: 1reakae1r/h8/4c1h2/pCp1p1pcp/9/2P6/P3P1P1P/2H3HC1/9/1REAKAE1R b
+11/28/2022 11:32:18 PM Controller: receive move from engine: 46180
+11/28/2022 11:32:18 PM Controller: communicate with server<--end
+11/28/2022 11:32:36 PM Controller: send fen to engine: 1reakae1r/h8/4c1h2/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C7/1REAKAE1R b
+11/28/2022 11:32:56 PM Controller: receive move from engine: 48075
+11/28/2022 11:32:56 PM Controller: communicate with server<--end
+11/28/2022 11:33:01 PM Controller: send fen to engine: 2eakae1r/h8/1r2c1h2/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C6R/1REAKAE2 b
+11/28/2022 11:33:25 PM Controller: receive move from engine: 47291
+11/28/2022 11:33:25 PM Controller: communicate with server<--end
+11/28/2022 11:33:56 PM Controller: send fen to engine: 2eakae1r/h7h/1r2c4/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C3R3/1REAKAE2 b
+11/28/2022 11:34:26 PM Controller: receive move from engine: 34469
+11/28/2022 11:34:26 PM Controller: communicate with server<--end
+11/28/2022 11:34:33 PM Controller: send fen to engine: 2eakae1r/h7h/2r1c4/2p1p1pcp/p8/2PH5/P3P1P1P/6HC1/1C3R3/1REAKAE2 b
+11/28/2022 11:35:15 PM Controller: receive move from engine: 13492
+11/28/2022 11:35:15 PM Controller: communicate with server<--end
+11/28/2022 11:35:25 PM Controller: send fen to engine: 1Ceak1e1r/h3a3h/2r1c4/2p1p1pcp/p8/2PH5/P3P1P1P/6HC1/5R3/1REAKAE2 b
+11/28/2022 11:36:26 PM Controller: receive move from engine: 17604
+11/28/2022 11:36:26 PM Controller: communicate with server<--end
+11/28/2022 11:37:15 PM Controller: send fen to engine: 1Ceak1e1r/hR2a3h/r3c4/2p1p1pcp/p8/2PH5/P3P1P1P/6HC1/5R3/2EAKAE2 b
+11/28/2022 11:37:42 PM Controller: receive move from engine: 18616
+11/28/2022 11:37:42 PM Controller: communicate with server<--end
+11/28/2022 11:38:50 PM Controller: send fen to engine: 1Ceak1e1r/hR2aR3/r3c1h2/2p1p1pcp/p8/2PH5/P3P1P1P/6HC1/9/2EAKAE2 b
+11/28/2022 11:39:12 PM Controller: receive move from engine: 25990
+11/28/2022 11:39:12 PM Controller: communicate with server<--end
+11/28/2022 11:40:38 PM Controller: send fen to engine: 1Ceak1e1r/hR2aR3/r1c3h2/2H1p1pcp/p8/2P6/P3P1P1P/6HC1/9/2EAKAE2 b
+11/28/2022 11:40:47 PM Controller: receive move from engine: 21349
+11/28/2022 11:40:47 PM Controller: communicate with server<--end
+11/28/2022 11:41:30 PM Controller: send fen to engine: 1Ceak1e2/hR2aR2r/H1c3h2/4p1pcp/p8/2P6/P3P1P1P/6HC1/9/2EAKAE2 b
+11/28/2022 11:41:31 PM Controller: receive move from engine: 17747
+11/28/2022 11:41:31 PM Controller: communicate with server<--end
+11/28/2022 11:42:29 PM Controller: send fen to engine: 1Ceakhe1r/hR2aR3/H1c6/4p1pcp/p8/2P6/P3P1P1P/6HC1/9/2EAKAE2 b
+11/28/2022 11:42:29 PM Controller: receive move from engine: 18244
+11/28/2022 11:42:29 PM Controller: communicate with server<--end
+11/28/2022 11:42:47 PM STREAM b'IHDR' 16 13
+11/28/2022 11:42:47 PM STREAM b'IDAT' 41 524288
+11/28/2022 11:42:48 PM STREAM b'IHDR' 16 13
+11/28/2022 11:42:48 PM STREAM b'pHYs' 41 9
+11/28/2022 11:42:48 PM STREAM b'cHRM' 62 32
+11/28/2022 11:42:48 PM STREAM b'IDAT' 106 213842
+11/28/2022 11:42:48 PM tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+11/28/2022 11:42:48 PM tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 98 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:42:48 PM tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 106 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+11/28/2022 11:42:48 PM tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+11/28/2022 11:42:48 PM tag: Software (305) - type: string (2) Tag Location: 70 - Data Location: 114 - value: <table: 34 bytes>
+11/28/2022 11:42:48 PM tag: DateTime (306) - type: string (2) Tag Location: 82 - Data Location: 148 - value: b'2017:08:02 14:19:57\x00'
+11/28/2022 11:42:48 PM tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xa8'
+11/28/2022 11:43:00 PM Controller: send fen to engine: rheakaehr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR b
+11/28/2022 11:43:00 PM Controller: receive move from engine: 42916
+11/28/2022 11:43:00 PM Controller: communicate with server<--end
+11/28/2022 11:43:03 PM Controller: send fen to engine: rheakae1r/9/4c1hc1/p1p1p1p1p/9/9/P1P1P1P1P/4C2C1/9/RHEAKAEHR b
+11/28/2022 11:43:15 PM Controller: receive move from engine: 42436
+11/28/2022 11:43:15 PM Controller: communicate with server<--end
+11/28/2022 11:43:21 PM Controller: send fen to engine: rheakae1r/9/4c1h2/p1p1p1p1p/9/9/P1P1P1PcP/2H1C2C1/9/R1EAKAEHR b
+11/28/2022 11:43:29 PM Controller: receive move from engine: 43466
+11/28/2022 11:43:29 PM Controller: communicate with server<--end
+11/28/2022 11:43:33 PM Controller: send fen to engine: rheakae1r/9/4c1h2/p1p1p1p1p/9/9/P1P1c1P1P/2H1C1HC1/9/R1EAKAE1R b
+11/28/2022 11:43:45 PM Controller: receive move from engine: 38821
+11/28/2022 11:43:45 PM Controller: communicate with server<--end
+11/28/2022 11:43:53 PM Controller: send fen to engine: r1eakae1r/9/2h1c1h2/p1p1p1p1p/9/9/P1P1H1P1P/4C1HC1/9/R1EAKAE1R b
+12/05/2022 06:57:13 PM Controller: send fen to engine: rheakaehr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR b
+12/05/2022 06:57:13 PM Controller: receive move from engine: 42436
+12/05/2022 06:57:13 PM Controller: communicate with server<--end
+12/05/2022 06:57:22 PM Controller: send fen to engine: r1eakaehr/9/2h1c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1CH4C1/9/R1EAKAEHR b
+12/05/2022 06:57:22 PM Controller: receive move from engine: 50371
+12/05/2022 06:57:22 PM Controller: communicate with server<--end
+12/05/2022 06:57:30 PM Controller: send fen to engine: 1reakaehr/9/2h1c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1CH4C1/9/1REAKAEHR b
+12/05/2022 06:57:30 PM Controller: receive move from engine: 25764
+12/05/2022 06:57:30 PM Controller: communicate with server<--end
+12/05/2022 06:57:38 PM Controller: send fen to engine: 1reakaehr/9/2h1c4/pCp1p1pcp/9/9/P1P1P1P1P/2H4C1/9/1REAKAEHR b
+12/05/2022 06:57:48 PM Controller: receive move from engine: 34197
+12/05/2022 06:57:48 PM Controller: communicate with server<--end
+12/05/2022 06:58:02 PM Controller: send fen to engine: 1reakae1r/9/2h1c1h2/pCp1p1pcp/9/2P6/P3P1P1P/2H4C1/9/1REAKAEHR b
+12/05/2022 06:58:10 PM Controller: receive move from engine: 43466
+12/05/2022 06:58:10 PM Controller: communicate with server<--end
+12/05/2022 06:58:27 PM Controller: send fen to engine: 1reakae1r/9/2h1c1h2/pCp1p1pc1/8p/2P6/P3P1P1P/2H3HC1/9/1REAKAE1R b
+12/05/2022 06:58:34 PM Controller: receive move from engine: 48075
+12/05/2022 06:58:34 PM Controller: communicate with server<--end
+12/05/2022 06:58:42 PM Controller: send fen to engine: 1reakae1r/9/2h1c4/pCp1p1pch/8p/2P6/P3P1P1P/2H3HC1/8R/1REAKAE2 b
+12/05/2022 06:58:49 PM Controller: receive move from engine: 34469
+12/05/2022 06:58:49 PM Controller: communicate with server<--end
+12/05/2022 06:59:21 PM Controller: send fen to engine: 1reakaer1/9/2h1c4/pCp1p1pch/8p/2PH5/P3P1P1P/6HC1/8R/1REAKAE2 b
+12/05/2022 06:59:31 PM Controller: receive move from engine: 15018
+12/05/2022 06:59:31 PM Controller: communicate with server<--end
+12/05/2022 06:59:54 PM Controller: send fen to engine: 1reakae1r/h8/4c1h2/pCp1p1pcp/9/2P6/P3P1P1P/2H3HC1/9/1REAKAE1R b
+12/05/2022 07:00:08 PM Controller: receive move from engine: 46180
+12/05/2022 07:00:08 PM Controller: communicate with server<--end
+12/05/2022 07:00:28 PM Controller: send fen to engine: 1reakae1r/9/4c1h2/php1p1pcp/9/2P6/P3P1P1P/2H3HC1/1C7/1REAKAE1R b
+12/05/2022 07:00:33 PM Controller: receive move from engine: 13492
+12/05/2022 07:00:33 PM Controller: communicate with server<--end
+12/05/2022 07:00:38 PM Controller: send fen to engine: 1reakae1r/h8/4c1h2/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C7/1REAKAE1R b
+12/05/2022 07:01:00 PM Controller: receive move from engine: 48075
+12/05/2022 07:01:00 PM Controller: communicate with server<--end
+12/05/2022 07:01:06 PM Controller: send fen to engine: 1reakae1r/9/2h1c1h2/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C6R/1REAKAE2 b
+12/05/2022 07:01:12 PM Controller: receive move from engine: 34469
+12/05/2022 07:01:12 PM Controller: communicate with server<--end
+12/05/2022 07:01:23 PM Controller: send fen to engine: 2eakae1r/9/2h1c1h2/1rp1p1pcp/p8/2PH5/P3P1P1P/6HC1/1C6R/1REAKAE2 b
+12/05/2022 07:01:40 PM Controller: receive move from engine: 30854
+12/05/2022 07:01:40 PM Controller: communicate with server<--end
+12/05/2022 07:01:48 PM Controller: send fen to engine: 2eakae2/9/2h1c1h1r/1rp1p1pcp/p4H3/2P6/P3P1P1P/6HC1/1C6R/1REAKAE2 b
+12/05/2022 07:02:02 PM Controller: receive move from engine: 27256
+12/05/2022 07:02:02 PM Controller: communicate with server<--end
+12/05/2022 07:02:14 PM Controller: send fen to engine: 2eakae2/9/2h1c1hr1/1rp1p1pHp/p8/2P6/P3P1P1P/6HC1/1C6R/1REAKAE2 b
+12/05/2022 07:02:26 PM Controller: receive move from engine: 23210
+12/05/2022 07:02:26 PM Controller: communicate with server<--end
+12/05/2022 07:02:31 PM Controller: send fen to engine: 2eakae2/9/2h3hC1/1rp1p1pHp/p8/2P6/P3c1P1P/6H2/1C6R/1REAKAE2 b
+12/05/2022 07:02:40 PM Controller: receive move from engine: 38825
+12/05/2022 07:02:40 PM Controller: communicate with server<--end

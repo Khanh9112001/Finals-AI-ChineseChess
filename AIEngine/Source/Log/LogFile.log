@@ -1,0 +1,475 @@
+11/28/2022 11:29:36 PM Main: receive FEN from client: rheakaehr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR w<----------------------------------
+11/28/2022 11:29:36 PM Main: the max fixed depth is :3
+11/28/2022 11:29:36 PM Main: the max highest depth by quiescence search is :0
+11/28/2022 11:29:36 PM Main: the number of searched node is :0
+11/28/2022 11:29:36 PM Main: send move to client:43466<-----------------------------------
+11/28/2022 11:30:37 PM Main: receive FEN from client: rheakaehr/9/1c5c1/p3p1p1p/2p6/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR w<----------------------------------
+11/28/2022 11:30:37 PM Main: the max fixed depth is :3
+11/28/2022 11:30:37 PM Main: the max highest depth by quiescence search is :0
+11/28/2022 11:30:37 PM Main: the number of searched node is :0
+11/28/2022 11:30:37 PM Main: send move to client:42404<-----------------------------------
+11/28/2022 11:30:55 PM Main: receive FEN from client: rheakaehr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR w<----------------------------------
+11/28/2022 11:30:55 PM Main: the max fixed depth is :3
+11/28/2022 11:30:55 PM Main: the max highest depth by quiescence search is :0
+11/28/2022 11:30:55 PM Main: the number of searched node is :0
+11/28/2022 11:30:55 PM Main: send move to client:42436<-----------------------------------
+11/28/2022 11:31:00 PM Main: receive FEN from client: r1eakaehr/9/2h1c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1CH4C1/9/R1EAKAEHR w<----------------------------------
+11/28/2022 11:31:00 PM Main: the max fixed depth is :3
+11/28/2022 11:31:00 PM Main: the max highest depth by quiescence search is :0
+11/28/2022 11:31:00 PM Main: the number of searched node is :0
+11/28/2022 11:31:00 PM Main: send move to client:50371<-----------------------------------
+11/28/2022 11:31:07 PM Main: receive FEN from client: 1reakaehr/9/2h1c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1CH4C1/9/1REAKAEHR w<----------------------------------
+11/28/2022 11:31:08 PM Main: the max fixed depth is :3
+11/28/2022 11:31:08 PM Main: the max highest depth by quiescence search is :0
+11/28/2022 11:31:08 PM Main: the number of searched node is :0
+11/28/2022 11:31:08 PM Main: send move to client:25764<-----------------------------------
+11/28/2022 11:31:27 PM Main: receive FEN from client: 1reakaehr/9/2h1c4/pCp1p1pcp/9/9/P1P1P1P1P/2H4C1/9/1REAKAEHR w<----------------------------------
+11/28/2022 11:31:28 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:31:28 PM Search: score is: 7
+11/28/2022 11:31:28 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:31:28 PM Search: score is: -2
+11/28/2022 11:31:29 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:31:29 PM Search: score is: 10
+11/28/2022 11:31:36 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:31:36 PM Search: score is: -8
+11/28/2022 11:31:36 PM Main: the max fixed depth is :4
+11/28/2022 11:31:36 PM Main: the max highest depth by quiescence search is :14
+11/28/2022 11:31:36 PM Main: the number of searched node is :124557
+11/28/2022 11:31:36 PM Main: send move to client:34197<-----------------------------------
+11/28/2022 11:31:46 PM Main: receive FEN from client: 1reakae1r/9/2h1c1h2/pCp1p1pcp/9/2P6/P3P1P1P/2H4C1/9/1REAKAEHR w<----------------------------------
+11/28/2022 11:31:46 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:31:46 PM Search: score is: 4
+11/28/2022 11:31:47 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:31:47 PM Search: score is: -8
+11/28/2022 11:31:48 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:31:48 PM Search: score is: 10
+11/28/2022 11:31:54 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:31:54 PM Search: score is: -6
+11/28/2022 11:31:54 PM Main: the max fixed depth is :4
+11/28/2022 11:31:54 PM Main: the max highest depth by quiescence search is :14
+11/28/2022 11:31:54 PM Main: the number of searched node is :103755
+11/28/2022 11:31:54 PM Main: send move to client:43466<-----------------------------------
+11/28/2022 11:32:06 PM Main: receive FEN from client: 1reakae1r/h8/4c1h2/pCp1p1pcp/9/2P6/P3P1P1P/2H3HC1/9/1REAKAE1R w<----------------------------------
+11/28/2022 11:32:07 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:07 PM Search: score is: 25
+11/28/2022 11:32:07 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:07 PM Search: score is: 0
+11/28/2022 11:32:07 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:07 PM Search: score is: 18
+11/28/2022 11:32:09 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:09 PM Search: score is: -2
+11/28/2022 11:32:18 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:18 PM Search: score is: 13
+11/28/2022 11:32:18 PM Main: the max fixed depth is :5
+11/28/2022 11:32:18 PM Main: the max highest depth by quiescence search is :13
+11/28/2022 11:32:18 PM Main: the number of searched node is :210407
+11/28/2022 11:32:18 PM Main: send move to client:46180<-----------------------------------
+11/28/2022 11:32:36 PM Main: receive FEN from client: 1reakae1r/h8/4c1h2/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C7/1REAKAE1R w<----------------------------------
+11/28/2022 11:32:36 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:36 PM Search: score is: 23
+11/28/2022 11:32:36 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:36 PM Search: score is: 7
+11/28/2022 11:32:37 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:37 PM Search: score is: 22
+11/28/2022 11:32:40 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:40 PM Search: score is: 8
+11/28/2022 11:32:56 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:32:56 PM Search: score is: 25
+11/28/2022 11:32:56 PM Main: the max fixed depth is :5
+11/28/2022 11:32:56 PM Main: the max highest depth by quiescence search is :14
+11/28/2022 11:32:56 PM Main: the number of searched node is :364314
+11/28/2022 11:32:56 PM Main: send move to client:48075<-----------------------------------
+11/28/2022 11:33:01 PM Main: receive FEN from client: 2eakae1r/h8/1r2c1h2/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C6R/1REAKAE2 w<----------------------------------
+11/28/2022 11:33:01 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:33:01 PM Search: score is: 27
+11/28/2022 11:33:02 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:33:02 PM Search: score is: 15
+11/28/2022 11:33:02 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:33:02 PM Search: score is: 32
+11/28/2022 11:33:05 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:33:05 PM Search: score is: 14
+11/28/2022 11:33:25 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:33:25 PM Search: score is: 35
+11/28/2022 11:33:25 PM Main: the max fixed depth is :5
+11/28/2022 11:33:25 PM Main: the max highest depth by quiescence search is :16
+11/28/2022 11:33:25 PM Main: the number of searched node is :403843
+11/28/2022 11:33:25 PM Main: send move to client:47291<-----------------------------------
+11/28/2022 11:33:56 PM Main: receive FEN from client: 2eakae1r/h7h/1r2c4/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C3R3/1REAKAE2 w<----------------------------------
+11/28/2022 11:33:57 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:33:57 PM Search: score is: 57
+11/28/2022 11:33:57 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:33:57 PM Search: score is: 32
+11/28/2022 11:33:58 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:33:58 PM Search: score is: 48
+11/28/2022 11:34:01 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:34:01 PM Search: score is: 29
+11/28/2022 11:34:26 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:34:26 PM Search: score is: 49
+11/28/2022 11:34:26 PM Main: the max fixed depth is :5
+11/28/2022 11:34:26 PM Main: the max highest depth by quiescence search is :14
+11/28/2022 11:34:26 PM Main: the number of searched node is :537310
+11/28/2022 11:34:26 PM Main: send move to client:34469<-----------------------------------
+11/28/2022 11:34:33 PM Main: receive FEN from client: 2eakae1r/h7h/2r1c4/2p1p1pcp/p8/2PH5/P3P1P1P/6HC1/1C3R3/1REAKAE2 w<----------------------------------
+11/28/2022 11:34:33 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:34:33 PM Search: score is: 69
+11/28/2022 11:34:34 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:34:34 PM Search: score is: 42
+11/28/2022 11:34:34 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:34:34 PM Search: score is: 60
+11/28/2022 11:34:38 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:34:38 PM Search: score is: 36
+11/28/2022 11:35:15 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:35:15 PM Search: score is: 56
+11/28/2022 11:35:15 PM Main: the max fixed depth is :5
+11/28/2022 11:35:15 PM Main: the max highest depth by quiescence search is :20
+11/28/2022 11:35:15 PM Main: the number of searched node is :814531
+11/28/2022 11:35:15 PM Main: send move to client:13492<-----------------------------------
+11/28/2022 11:35:25 PM Main: receive FEN from client: 1Ceak1e1r/h3a3h/2r1c4/2p1p1pcp/p8/2PH5/P3P1P1P/6HC1/5R3/1REAKAE2 w<----------------------------------
+11/28/2022 11:35:25 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:35:25 PM Search: score is: 59
+11/28/2022 11:35:25 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:35:25 PM Search: score is: 42
+11/28/2022 11:35:26 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:35:26 PM Search: score is: 90
+11/28/2022 11:35:30 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:35:30 PM Search: score is: 39
+11/28/2022 11:36:26 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:36:26 PM Search: score is: 94
+11/28/2022 11:36:26 PM Main: the max fixed depth is :5
+11/28/2022 11:36:26 PM Main: the max highest depth by quiescence search is :19
+11/28/2022 11:36:26 PM Main: the number of searched node is :1174157
+11/28/2022 11:36:26 PM Main: send move to client:17604<-----------------------------------
+11/28/2022 11:37:15 PM Main: receive FEN from client: 1Ceak1e1r/hR2a3h/r3c4/2p1p1pcp/p8/2PH5/P3P1P1P/6HC1/5R3/2EAKAE2 w<----------------------------------
+11/28/2022 11:37:15 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:37:15 PM Search: score is: 104
+11/28/2022 11:37:16 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:37:16 PM Search: score is: 52
+11/28/2022 11:37:16 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:37:16 PM Search: score is: 103
+11/28/2022 11:37:20 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:37:20 PM Search: score is: 54
+11/28/2022 11:37:42 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:37:42 PM Search: score is: 126
+11/28/2022 11:37:42 PM Main: the max fixed depth is :5
+11/28/2022 11:37:42 PM Main: the max highest depth by quiescence search is :19
+11/28/2022 11:37:42 PM Main: the number of searched node is :501499
+11/28/2022 11:37:42 PM Main: send move to client:18616<-----------------------------------
+11/28/2022 11:38:50 PM Main: receive FEN from client: 1Ceak1e1r/hR2aR3/r3c1h2/2p1p1pcp/p8/2PH5/P3P1P1P/6HC1/9/2EAKAE2 w<----------------------------------
+11/28/2022 11:38:50 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:38:50 PM Search: score is: 99
+11/28/2022 11:38:51 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:38:51 PM Search: score is: 47
+11/28/2022 11:38:51 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:38:51 PM Search: score is: 126
+11/28/2022 11:38:53 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:38:55 PM Search: score is: 126
+11/28/2022 11:39:12 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:39:12 PM Search: score is: 127
+11/28/2022 11:39:12 PM Main: the max fixed depth is :5
+11/28/2022 11:39:12 PM Main: the max highest depth by quiescence search is :17
+11/28/2022 11:39:12 PM Main: the number of searched node is :328347
+11/28/2022 11:39:12 PM Main: send move to client:25990<-----------------------------------
+11/28/2022 11:40:38 PM Main: receive FEN from client: 1Ceak1e1r/hR2aR3/r1c3h2/2H1p1pcp/p8/2P6/P3P1P1P/6HC1/9/2EAKAE2 w<----------------------------------
+11/28/2022 11:40:39 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:40:39 PM Search: score is: 105
+11/28/2022 11:40:39 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:40:39 PM Search: score is: 56
+11/28/2022 11:40:39 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:40:39 PM Search: score is: 238
+11/28/2022 11:40:41 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:40:41 PM Search: score is: 226
+11/28/2022 11:40:47 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:40:47 PM Search: score is: 298
+11/28/2022 11:40:47 PM Main: the max fixed depth is :5
+11/28/2022 11:40:47 PM Main: the max highest depth by quiescence search is :13
+11/28/2022 11:40:47 PM Main: the number of searched node is :172615
+11/28/2022 11:40:47 PM Main: send move to client:21349<-----------------------------------
+11/28/2022 11:41:30 PM Main: receive FEN from client: 1Ceak1e2/hR2aR2r/H1c3h2/4p1pcp/p8/2P6/P3P1P1P/6HC1/9/2EAKAE2 w<----------------------------------
+11/28/2022 11:41:31 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:41:31 PM Search: score is: 289
+11/28/2022 11:41:31 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:41:31 PM Search: score is: 9999
+11/28/2022 11:41:31 PM Main: the max fixed depth is :2
+11/28/2022 11:41:31 PM Main: the max highest depth by quiescence search is :7
+11/28/2022 11:41:31 PM Main: the number of searched node is :322
+11/28/2022 11:41:31 PM Main: send move to client:17747<-----------------------------------
+11/28/2022 11:42:29 PM Main: receive FEN from client: 1Ceakhe1r/hR2aR3/H1c6/4p1pcp/p8/2P6/P3P1P1P/6HC1/9/2EAKAE2 w<----------------------------------
+11/28/2022 11:42:29 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:42:29 PM Search: score is: 301
+11/28/2022 11:42:29 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:42:29 PM Search: score is: 9999
+11/28/2022 11:42:29 PM Main: the max fixed depth is :2
+11/28/2022 11:42:29 PM Main: the max highest depth by quiescence search is :5
+11/28/2022 11:42:29 PM Main: the number of searched node is :200
+11/28/2022 11:42:29 PM Main: send move to client:18244<-----------------------------------
+11/28/2022 11:43:00 PM Main: receive FEN from client: rheakaehr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR w<----------------------------------
+11/28/2022 11:43:00 PM Main: the max fixed depth is :3
+11/28/2022 11:43:00 PM Main: the max highest depth by quiescence search is :0
+11/28/2022 11:43:00 PM Main: the number of searched node is :0
+11/28/2022 11:43:00 PM Main: send move to client:42916<-----------------------------------
+11/28/2022 11:43:03 PM Main: receive FEN from client: rheakae1r/9/4c1hc1/p1p1p1p1p/9/9/P1P1P1P1P/4C2C1/9/RHEAKAEHR w<----------------------------------
+11/28/2022 11:43:03 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:03 PM Search: score is: 0
+11/28/2022 11:43:04 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:04 PM Search: score is: -12
+11/28/2022 11:43:04 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:04 PM Search: score is: 3
+11/28/2022 11:43:05 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:05 PM Search: score is: -9
+11/28/2022 11:43:15 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:15 PM Search: score is: 0
+11/28/2022 11:43:15 PM Main: the max fixed depth is :5
+11/28/2022 11:43:15 PM Main: the max highest depth by quiescence search is :18
+11/28/2022 11:43:15 PM Main: the number of searched node is :177433
+11/28/2022 11:43:15 PM Main: send move to client:42436<-----------------------------------
+11/28/2022 11:43:21 PM Main: receive FEN from client: rheakae1r/9/4c1h2/p1p1p1p1p/9/9/P1P1P1PcP/2H1C2C1/9/R1EAKAEHR w<----------------------------------
+11/28/2022 11:43:21 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:21 PM Search: score is: 9
+11/28/2022 11:43:22 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:22 PM Search: score is: -3
+11/28/2022 11:43:22 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:22 PM Search: score is: 9
+11/28/2022 11:43:24 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:24 PM Search: score is: -3
+11/28/2022 11:43:29 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:29 PM Search: score is: 9
+11/28/2022 11:43:29 PM Main: the max fixed depth is :5
+11/28/2022 11:43:29 PM Main: the max highest depth by quiescence search is :22
+11/28/2022 11:43:29 PM Main: the number of searched node is :118370
+11/28/2022 11:43:29 PM Main: send move to client:43466<-----------------------------------
+11/28/2022 11:43:33 PM Main: receive FEN from client: rheakae1r/9/4c1h2/p1p1p1p1p/9/9/P1P1c1P1P/2H1C1HC1/9/R1EAKAE1R w<----------------------------------
+11/28/2022 11:43:33 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:33 PM Search: score is: 94
+11/28/2022 11:43:33 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:33 PM Search: score is: 82
+11/28/2022 11:43:34 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:34 PM Search: score is: 94
+11/28/2022 11:43:34 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:34 PM Search: score is: 85
+11/28/2022 11:43:36 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:36 PM Search: score is: 97
+11/28/2022 11:43:45 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:45 PM Search: score is: 85
+11/28/2022 11:43:45 PM Main: the max fixed depth is :6
+11/28/2022 11:43:45 PM Main: the max highest depth by quiescence search is :20
+11/28/2022 11:43:45 PM Main: the number of searched node is :175674
+11/28/2022 11:43:45 PM Main: send move to client:38821<-----------------------------------
+11/28/2022 11:43:53 PM Main: receive FEN from client: r1eakae1r/9/2h1c1h2/p1p1p1p1p/9/9/P1P1H1P1P/4C1HC1/9/R1EAKAE1R w<----------------------------------
+11/28/2022 11:43:53 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:53 PM Search: score is: 97
+11/28/2022 11:43:53 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:53 PM Search: score is: 85
+11/28/2022 11:43:54 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:54 PM Search: score is: 97
+11/28/2022 11:43:55 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:55 PM Search: score is: 85
+11/28/2022 11:43:58 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:43:58 PM Search: score is: 102
+11/28/2022 11:44:27 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+11/28/2022 11:44:27 PM Search: score is: 87
+11/28/2022 11:44:27 PM Main: the max fixed depth is :6
+11/28/2022 11:44:27 PM Main: the max highest depth by quiescence search is :16
+11/28/2022 11:44:27 PM Main: the number of searched node is :479749
+11/28/2022 11:44:27 PM Main: send move to client:30359<-----------------------------------
+12/05/2022 06:57:13 PM Main: receive FEN from client: rheakaehr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RHEAKAEHR w<----------------------------------
+12/05/2022 06:57:13 PM Main: the max fixed depth is :3
+12/05/2022 06:57:13 PM Main: the max highest depth by quiescence search is :0
+12/05/2022 06:57:13 PM Main: the number of searched node is :0
+12/05/2022 06:57:13 PM Main: send move to client:42436<-----------------------------------
+12/05/2022 06:57:22 PM Main: receive FEN from client: r1eakaehr/9/2h1c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1CH4C1/9/R1EAKAEHR w<----------------------------------
+12/05/2022 06:57:22 PM Main: the max fixed depth is :3
+12/05/2022 06:57:22 PM Main: the max highest depth by quiescence search is :0
+12/05/2022 06:57:22 PM Main: the number of searched node is :0
+12/05/2022 06:57:22 PM Main: send move to client:50371<-----------------------------------
+12/05/2022 06:57:30 PM Main: receive FEN from client: 1reakaehr/9/2h1c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1CH4C1/9/1REAKAEHR w<----------------------------------
+12/05/2022 06:57:30 PM Main: the max fixed depth is :3
+12/05/2022 06:57:30 PM Main: the max highest depth by quiescence search is :0
+12/05/2022 06:57:30 PM Main: the number of searched node is :0
+12/05/2022 06:57:30 PM Main: send move to client:25764<-----------------------------------
+12/05/2022 06:57:38 PM Main: receive FEN from client: 1reakaehr/9/2h1c4/pCp1p1pcp/9/9/P1P1P1P1P/2H4C1/9/1REAKAEHR w<----------------------------------
+12/05/2022 06:57:39 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:57:39 PM Search: score is: 7
+12/05/2022 06:57:39 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:57:39 PM Search: score is: -2
+12/05/2022 06:57:40 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:57:40 PM Search: score is: 10
+12/05/2022 06:57:48 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:57:48 PM Search: score is: -8
+12/05/2022 06:57:48 PM Main: the max fixed depth is :4
+12/05/2022 06:57:48 PM Main: the max highest depth by quiescence search is :14
+12/05/2022 06:57:48 PM Main: the number of searched node is :124557
+12/05/2022 06:57:48 PM Main: send move to client:34197<-----------------------------------
+12/05/2022 06:58:02 PM Main: receive FEN from client: 1reakae1r/9/2h1c1h2/pCp1p1pcp/9/2P6/P3P1P1P/2H4C1/9/1REAKAEHR w<----------------------------------
+12/05/2022 06:58:02 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:02 PM Search: score is: 4
+12/05/2022 06:58:03 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:03 PM Search: score is: -8
+12/05/2022 06:58:03 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:03 PM Search: score is: 10
+12/05/2022 06:58:10 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:10 PM Search: score is: -6
+12/05/2022 06:58:10 PM Main: the max fixed depth is :4
+12/05/2022 06:58:10 PM Main: the max highest depth by quiescence search is :14
+12/05/2022 06:58:10 PM Main: the number of searched node is :103755
+12/05/2022 06:58:10 PM Main: send move to client:43466<-----------------------------------
+12/05/2022 06:58:27 PM Main: receive FEN from client: 1reakae1r/9/2h1c1h2/pCp1p1pc1/8p/2P6/P3P1P1P/2H3HC1/9/1REAKAE1R w<----------------------------------
+12/05/2022 06:58:27 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:27 PM Search: score is: 16
+12/05/2022 06:58:28 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:28 PM Search: score is: 0
+12/05/2022 06:58:28 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:28 PM Search: score is: 14
+12/05/2022 06:58:34 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:34 PM Search: score is: 3
+12/05/2022 06:58:34 PM Main: the max fixed depth is :4
+12/05/2022 06:58:34 PM Main: the max highest depth by quiescence search is :13
+12/05/2022 06:58:34 PM Main: the number of searched node is :90212
+12/05/2022 06:58:34 PM Main: send move to client:48075<-----------------------------------
+12/05/2022 06:58:42 PM Main: receive FEN from client: 1reakae1r/9/2h1c4/pCp1p1pch/8p/2P6/P3P1P1P/2H3HC1/8R/1REAKAE2 w<----------------------------------
+12/05/2022 06:58:42 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:42 PM Search: score is: 24
+12/05/2022 06:58:43 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:43 PM Search: score is: 12
+12/05/2022 06:58:43 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:43 PM Search: score is: 29
+12/05/2022 06:58:49 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:58:49 PM Search: score is: 14
+12/05/2022 06:58:49 PM Main: the max fixed depth is :4
+12/05/2022 06:58:49 PM Main: the max highest depth by quiescence search is :14
+12/05/2022 06:58:49 PM Main: the number of searched node is :91339
+12/05/2022 06:58:49 PM Main: send move to client:34469<-----------------------------------
+12/05/2022 06:59:21 PM Main: receive FEN from client: 1reakaer1/9/2h1c4/pCp1p1pch/8p/2PH5/P3P1P1P/6HC1/8R/1REAKAE2 w<----------------------------------
+12/05/2022 06:59:21 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:59:21 PM Search: score is: 218
+12/05/2022 06:59:21 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:59:21 PM Search: score is: 211
+12/05/2022 06:59:22 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:59:22 PM Search: score is: 224
+12/05/2022 06:59:23 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:59:23 PM Search: score is: 216
+12/05/2022 06:59:31 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:59:31 PM Search: score is: 229
+12/05/2022 06:59:31 PM Main: the max fixed depth is :5
+12/05/2022 06:59:31 PM Main: the max highest depth by quiescence search is :17
+12/05/2022 06:59:31 PM Main: the number of searched node is :162619
+12/05/2022 06:59:31 PM Main: send move to client:15018<-----------------------------------
+12/05/2022 06:59:54 PM Main: receive FEN from client: 1reakae1r/h8/4c1h2/pCp1p1pcp/9/2P6/P3P1P1P/2H3HC1/9/1REAKAE1R w<----------------------------------
+12/05/2022 06:59:55 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:59:55 PM Search: score is: 25
+12/05/2022 06:59:55 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:59:55 PM Search: score is: 0
+12/05/2022 06:59:56 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:59:56 PM Search: score is: 18
+12/05/2022 06:59:58 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 06:59:58 PM Search: score is: -2
+12/05/2022 07:00:08 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:08 PM Search: score is: 13
+12/05/2022 07:00:08 PM Main: the max fixed depth is :5
+12/05/2022 07:00:08 PM Main: the max highest depth by quiescence search is :13
+12/05/2022 07:00:08 PM Main: the number of searched node is :210407
+12/05/2022 07:00:08 PM Main: send move to client:46180<-----------------------------------
+12/05/2022 07:00:28 PM Main: receive FEN from client: 1reakae1r/9/4c1h2/php1p1pcp/9/2P6/P3P1P1P/2H3HC1/1C7/1REAKAE1R w<----------------------------------
+12/05/2022 07:00:28 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:28 PM Search: score is: 193
+12/05/2022 07:00:29 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:29 PM Search: score is: 193
+12/05/2022 07:00:29 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:29 PM Search: score is: 205
+12/05/2022 07:00:30 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:30 PM Search: score is: 189
+12/05/2022 07:00:33 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:33 PM Search: score is: 214
+12/05/2022 07:00:33 PM Main: the max fixed depth is :5
+12/05/2022 07:00:33 PM Main: the max highest depth by quiescence search is :15
+12/05/2022 07:00:33 PM Main: the number of searched node is :74095
+12/05/2022 07:00:33 PM Main: send move to client:13492<-----------------------------------
+12/05/2022 07:00:38 PM Main: receive FEN from client: 1reakae1r/h8/4c1h2/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C7/1REAKAE1R w<----------------------------------
+12/05/2022 07:00:39 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:39 PM Search: score is: 23
+12/05/2022 07:00:39 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:39 PM Search: score is: 7
+12/05/2022 07:00:40 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:40 PM Search: score is: 22
+12/05/2022 07:00:43 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:00:43 PM Search: score is: 8
+12/05/2022 07:01:00 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:00 PM Search: score is: 25
+12/05/2022 07:01:00 PM Main: the max fixed depth is :5
+12/05/2022 07:01:00 PM Main: the max highest depth by quiescence search is :14
+12/05/2022 07:01:00 PM Main: the number of searched node is :364314
+12/05/2022 07:01:00 PM Main: send move to client:48075<-----------------------------------
+12/05/2022 07:01:06 PM Main: receive FEN from client: 1reakae1r/9/2h1c1h2/2p1p1pcp/p8/2P6/P3P1P1P/2H3HC1/1C6R/1REAKAE2 w<----------------------------------
+12/05/2022 07:01:07 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:07 PM Search: score is: 20
+12/05/2022 07:01:07 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:07 PM Search: score is: 8
+12/05/2022 07:01:08 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:08 PM Search: score is: 25
+12/05/2022 07:01:12 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:12 PM Search: score is: 9
+12/05/2022 07:01:12 PM Main: the max fixed depth is :4
+12/05/2022 07:01:12 PM Main: the max highest depth by quiescence search is :12
+12/05/2022 07:01:12 PM Main: the number of searched node is :54078
+12/05/2022 07:01:12 PM Main: send move to client:34469<-----------------------------------
+12/05/2022 07:01:23 PM Main: receive FEN from client: 2eakae1r/9/2h1c1h2/1rp1p1pcp/p8/2PH5/P3P1P1P/6HC1/1C6R/1REAKAE2 w<----------------------------------
+12/05/2022 07:01:24 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:24 PM Search: score is: 25
+12/05/2022 07:01:24 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:24 PM Search: score is: 13
+12/05/2022 07:01:24 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:24 PM Search: score is: 35
+12/05/2022 07:01:27 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:27 PM Search: score is: 23
+12/05/2022 07:01:40 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:40 PM Search: score is: 39
+12/05/2022 07:01:40 PM Main: the max fixed depth is :5
+12/05/2022 07:01:40 PM Main: the max highest depth by quiescence search is :17
+12/05/2022 07:01:40 PM Main: the number of searched node is :285323
+12/05/2022 07:01:40 PM Main: send move to client:30854<-----------------------------------
+12/05/2022 07:01:48 PM Main: receive FEN from client: 2eakae2/9/2h1c1h1r/1rp1p1pcp/p4H3/2P6/P3P1P1P/6HC1/1C6R/1REAKAE2 w<----------------------------------
+12/05/2022 07:01:49 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:49 PM Search: score is: 111
+12/05/2022 07:01:49 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:49 PM Search: score is: 101
+12/05/2022 07:01:50 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:50 PM Search: score is: 117
+12/05/2022 07:01:51 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:01:51 PM Search: score is: 110
+12/05/2022 07:02:02 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:02 PM Search: score is: 128
+12/05/2022 07:02:02 PM Main: the max fixed depth is :5
+12/05/2022 07:02:02 PM Main: the max highest depth by quiescence search is :14
+12/05/2022 07:02:02 PM Main: the number of searched node is :232862
+12/05/2022 07:02:02 PM Main: send move to client:27256<-----------------------------------
+12/05/2022 07:02:14 PM Main: receive FEN from client: 2eakae2/9/2h1c1hr1/1rp1p1pHp/p8/2P6/P3P1P1P/6HC1/1C6R/1REAKAE2 w<----------------------------------
+12/05/2022 07:02:14 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:14 PM Search: score is: 218
+12/05/2022 07:02:15 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:15 PM Search: score is: 218
+12/05/2022 07:02:15 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:15 PM Search: score is: 230
+12/05/2022 07:02:16 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:16 PM Search: score is: 223
+12/05/2022 07:02:18 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:18 PM Search: score is: 234
+12/05/2022 07:02:26 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:26 PM Search: score is: 222
+12/05/2022 07:02:26 PM Main: the max fixed depth is :6
+12/05/2022 07:02:26 PM Main: the max highest depth by quiescence search is :11
+12/05/2022 07:02:26 PM Main: the number of searched node is :154305
+12/05/2022 07:02:26 PM Main: send move to client:23210<-----------------------------------
+12/05/2022 07:02:31 PM Main: receive FEN from client: 2eakae2/9/2h3hC1/1rp1p1pHp/p8/2P6/P3c1P1P/6H2/1C6R/1REAKAE2 w<----------------------------------
+12/05/2022 07:02:31 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:31 PM Search: score is: 400
+12/05/2022 07:02:31 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:31 PM Search: score is: 393
+12/05/2022 07:02:32 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:32 PM Search: score is: 408
+12/05/2022 07:02:33 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:33 PM Search: score is: 394
+12/05/2022 07:02:40 PM Search: used algorithms: AlphaBeta, moveOrdering, quiescence search, transposition table 
+12/05/2022 07:02:40 PM Search: score is: 422
+12/05/2022 07:02:40 PM Main: the max fixed depth is :5
+12/05/2022 07:02:40 PM Main: the max highest depth by quiescence search is :10
+12/05/2022 07:02:40 PM Main: the number of searched node is :141927
+12/05/2022 07:02:40 PM Main: send move to client:38825<-----------------------------------

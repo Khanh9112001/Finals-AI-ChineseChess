@@ -1,0 +1,137 @@
+import os
+
+import math
+import pygame
+
+# import class
+from Utils.Point import Point
+
+pygame.init()
+
+# color const
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+ELECTRONIC_BACKGROUND_COLOR = (237, 225, 185)
+FCAF3E = (252, 175, 62)
+CE5C00 = (206, 92, 0)
+
+FPS = 60
+
+infoObject = pygame.display.Info()
+SCREEN_WIDTH = infoObject.current_w
+SCREEN_HEIGHT = infoObject.current_h
+
+# game size
+WINDOW_HEIGHT = SCREEN_HEIGHT - 50
+WINDOW_WIDTH = WINDOW_HEIGHT + math.floor(2 * WINDOW_HEIGHT / 10)
+
+# board const
+BOARD_HEIGHT = WINDOW_HEIGHT
+BOARD_WIDTH = (WINDOW_HEIGHT / 10) * 9
+
+BOARD_DIMENSION = (9, 10)
+
+COLUMN_WIDTH = int(BOARD_WIDTH / 10)+1
+ROW_WIDTH = int(BOARD_HEIGHT / 11)
+print(COLUMN_WIDTH)
+print(ROW_WIDTH)
+
+BOARD_LINE_WIDTH = 3
+
+#text_width
+TEXT_WIDTH = ROW_WIDTH/5
+
+# piece
+PIECE_SIZE = (math.floor(COLUMN_WIDTH * 1), math.floor(ROW_WIDTH * 1))
+
+# Recommendation Piece
+RECOMMEND_PIECE_SIZE = (math.floor(COLUMN_WIDTH * 0.8), math.floor(ROW_WIDTH * 0.8))
+SAVE_BUTTON = "SAVE"
+DELETE_BUTTON = "DELETE"
+RESET_BUTTON = "BACK"
+PLAY_BUTTON = "PLAY"
+EMPTY = '.'
+RECOMMEND = 'o'
+
+# piece name list
+PIECE_NAME_LIST = ["k", "a", "e", "h", "r", "c", "p",
+                    "K", "A", "E", "H", "R", "C", "P"]
+BLACK_PIECES = ("k", "a", "e", "h", "r", "c", "p", DELETE_BUTTON, RESET_BUTTON)
+RED_PIECES = ("K", "A", "E", "H", "R", "C", "P", SAVE_BUTTON, PLAY_BUTTON)
+
+# INIT_BOARD
+RECOMMEND_STATE = [
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+    [RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND, RECOMMEND],
+]
+# INIT_STATE = [
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+#     [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY],
+# ]
+INIT_STATE = [
+    ['r', 'h', 'e', 'a', 'k', 'a', 'e', 'h', 'r'],
+    ['.', '.', '.', '.', '.', '.', '.', '.', '.'],
+    ['.', 'c', '.', '.', '.', '.', '.', 'c', '.'],
+    ['p', '.', 'p', '.', 'p', '.', 'p', '.', 'p'],
+    ['.', '.', '.', '.', '.', '.', '.', '.', '.'],
+
+    ['.', '.', '.', '.', '.', '.', '.', '.', '.'],
+    ['P', '.', 'P', '.', 'P', '.', 'P', '.', 'P'],
+    ['.', 'C', '.', '.', '.', '.', '.', 'C', '.'],
+    ['.', '.', '.', '.', '.', '.', '.', '.', '.'],
+    ['R', 'H', 'E', 'A', 'K', 'A', 'E', 'H', 'R'],
+]
+# POSITION OF PIECE TO DRAW IN SCREEN
+BOARD_POSITION = list()
+for i in range(10):
+    BOARD_POSITION.append(list())
+    for j in range(9):
+        position = Point(COLUMN_WIDTH + COLUMN_WIDTH * j,
+                         ROW_WIDTH + ROW_WIDTH * i)
+        BOARD_POSITION[i].append(position)
+
+# electronic board
+ELECTRONIC_BOARD_WIDTH = WINDOW_WIDTH - BOARD_WIDTH
+ELECTRONIC_BOARD_HEIGHT = WINDOW_HEIGHT
+
+# gap
+CONTROL_SECTION_WIDTH = ELECTRONIC_BOARD_WIDTH
+CONTROL_SECTION_HEIGHT = 3 * ROW_WIDTH
+
+# information section
+INFORMATION_SECTION_WIDTH = ELECTRONIC_BOARD_WIDTH
+INFORMATION_SECTION_HEIGHT = (ELECTRONIC_BOARD_HEIGHT - CONTROL_SECTION_HEIGHT) / 2
+
+# progress bar
+PROGRESS_BAR_WIDTH = INFORMATION_SECTION_WIDTH / 4
+PROGRESS_BAR_HEIGHT = 3 * ROW_WIDTH
+
+# button
+BUTTON_SIZE = (int(ELECTRONIC_BOARD_WIDTH / 4), int(ELECTRONIC_BOARD_WIDTH / 4))
+
+# button name list
+BUTTON_TYPE_LIST = ('undo', 'mode', 'reset', 'setting')
+
+MODE = ['AIvsP', 'PvsP']
+
+RESOURCE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Asset'))
+
+STATE_PROGRAM = ['init_board', 'play']
+
